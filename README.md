@@ -9,7 +9,12 @@
 ![ss2](https://user-images.githubusercontent.com/52501040/196446593-79830457-93da-4855-a095-80c67c1aa8be.PNG)
 ![ss](https://user-images.githubusercontent.com/52501040/196446582-cc83896f-0d3c-4c0f-a401-3962ef939691.PNG)
 
-### Licence
+### Quick Start:
+```
+git clone https://github.com/HamzaZaidiX/My-ToDo-App
+```
+
+### Licence:
 `MIT LICENCE` Read `Licence` document for more details =>
 
 # Bye! 👋
